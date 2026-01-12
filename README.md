@@ -24,3 +24,10 @@ Current Board:
    |   | X
 
 Player X wins!
+
+---
+
+## What I Learned
+- Python conditionals
+- Game logic
+- Functions and loops
